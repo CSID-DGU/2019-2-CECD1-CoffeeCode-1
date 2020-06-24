@@ -8,3 +8,4 @@
 2. prediction.py 실행 
 
 ### 결과
+![result](/figures/result.png)
